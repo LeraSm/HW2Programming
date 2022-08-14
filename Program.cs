@@ -18,3 +18,16 @@ Console.Clear();
 // }
 // int thirdnumber = (number%100)%10;
 // Console.WriteLine($"third number {number} -> {thirdnumber}");
+
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+// int number = new Random().Next (1, 8);
+// if(number<6)
+// {
+//   Console.WriteLine($"Workingday: {number}");  
+// }
+// else
+// {
+//   Console.WriteLine($"Weekend: {number}"); 
+// }
+
